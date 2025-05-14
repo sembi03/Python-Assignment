@@ -1,3 +1,29 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">Hi 👋, I'm Sembiyan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sembi03/Python-Assignment.git](https://github.com/sembi03/Python-Assignment.git)
+
+- 💬 Ask me about **Python , Networking**
+
+- 📫 How to reach me **sembiyan24@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sembiyan&show_icons=true&locale=en" alt="sembiyan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sembiyan&" alt="sembi03" /></p>
+
+
+
 # Python-Assignment
 # Module 2: Basic Python Concepts
 ### Task 1: Perform Basic Mathematical Operations https://github.com/sembi03/Python-Assignment/blob/6527c2436f7bae05fa016180b70cf94aa173694e/Task%201.py
