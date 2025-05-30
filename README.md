@@ -46,5 +46,5 @@
 ### Task 2: Demonstrate List Slicing https://github.com/sembi03/Python-Assignment/blob/bd652ea9b0f0fe86779970a6280c7e341fbf64c2/Assignment_5Task2.py
 
 # Module 10 & 11: CALCULATOR USING TKINTER
-### Task 1: You need to upload the compressed zip file of your working project folder to drive and then submit the accessible link (make sure to enable sharing access).
+### Task 1: You need to upload the compressed zip file of your working project folder to drive and then submit the accessible link (make sure to enable sharing access).https://github.com/sembi03/Python-Assignment/blob/fe9a649b913f0e5109fa7c7daf32dcfb33cad229/Assignment_6Task1.zip
 
