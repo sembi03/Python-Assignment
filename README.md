@@ -49,5 +49,5 @@
 ### Task 1: You need to upload the compressed zip file of your working project folder to drive and then submit the accessible link (make sure to enable sharing access).https://github.com/sembi03/Python-Assignment/blob/fe9a649b913f0e5109fa7c7daf32dcfb33cad229/Assignment_6Task1.zip
 
 # Module 12: Building Database Apps with PostgreSQL & Python
-### Task 1: You need to upload the compressed zip file of your working project folder to drive and then submit the accessible link (make sure to enable sharing access).https://github.com/sembi03/Python-Assignment/blob/fe9a649b913f0e5109fa7c7daf32dcfb33cad229/Assignment_6Task1.zip
+### Task 1: You need to upload the compressed zip file of your working project folder to drive and then submit the accessible link (make sure to enable sharing access).https://github.com/sembi03/Python-Assignment/blob/98329a635807badc3f7770123162a8ad9565df69/Assignment7.zip
 
